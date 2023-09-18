@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    font-size: 50px;
+}
+
+.immagine-header{
+    background-color: #007fff;
+    width: 100%;
+    background-image: url('img/pattern.png');
+    background-repeat: repeat;
+    background-size: 38%;
+    
+}
+.logo{
+    width: 15%;
+    background-position-y: bottom;
+    padding: 5% 0% 1% 0.7%;
+}
+
+main{
+    margin: 10px;
+}
+.tim1{
+    width: 52%;
+}
+.tim2{
+    width: 44.5%;
+}
+
+.intestazione{
+    width: 25%;
+    text-align: start;
+    background-color: #007fff;
+    color: white;
+}
+
+.intestazione3{
+    text-align: start;
+    background-color: #007fff;
+    color: white;
+}
+
+h2{
+    color: white;
+    padding: 10px;
+}
+h3{
+    color: gray;
+    margin-top: 2%;
+}
+
+.riga1{
+    background-color: #99cbff;
+}
+
+table{
+    border-spacing: 0;
+}
+
+.paragrafo2{
+    font-size: 18px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.paragrafo1{
+    font-size: 13px;
+    margin-top: 1px;
+}
+ul{
+    padding-inline-start: 15px;
+    margin-bottom: 2%;
+}
+
+.immagine-pc-1{
+    background: url(../img/monitor.jpg);
+    width: 20%;
+    height: 30vh;
+}
+
+.immagine-pc-2{
+    background: url(../img/graph.jpg);
+    width: 20%;
+    height: 30vh;
+
+}
